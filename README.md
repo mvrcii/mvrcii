@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Marcel 👋
 
-<!--
-**mvrcii/mvrcii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine Learning & Computer Vision researcher focused on solving difficult, unstructured data problems. I specialize in **2D/3D segmentation**, **Document AI**, and **LLM/VLM fine-tuning**.
 
-Here are some ideas to get you started:
+I don't just train models; I build data engines and custom architectures to extract signal from extreme noise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🏆 Featured Work: Vesuvius Challenge First Title Winner
+**I won the First Title Prize by decoding the unreadable.**
+My team developed a custom 3D Computer Vision pipeline to detect ink in carbonized Herculaneum scrolls.
+* **The Problem:** Segmenting characters in 3D volumetric X-ray scans where the human eye sees nothing.
+* **The Solution:** Designed **MiniUNETR** (a lightweight 3D Transformer/CNN hybrid) and built an iterative "ignore-mask" data engine to handle uncertainty.
+* **The Result:** Successfully extracted the first readable title from Scroll 5.
+* **[View the Winning Code & Case Study](https://github.com/mvrcii/vesuvius_first_title_prize)**
