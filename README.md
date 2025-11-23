@@ -14,8 +14,6 @@ My team developed a custom 3D Computer Vision pipeline to detect ink in carboniz
 * **The Result:** Successfully extracted the first readable title from Scroll 5.
 * **[View the Winning Code & Case Study](https://github.com/mvrcii/vesuvius_first_title_prize)** 👈 *(Pin this repo!)*
 
-#### 🚧 Current Focus: Document AI & VLMs (Proprietary)
-
 <table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
     <td width="65%" style="border: none; padding: 5px;">
