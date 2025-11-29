@@ -1,4 +1,6 @@
-<img width="3928" height="1024" alt="title_banner" src="https://github.com/user-attachments/assets/1a723e43-1b6b-46b3-9b04-194eea46a787" />
+<div align="center">
+  <img alt="title_banner" src="https://github.com/mvrcii/mvrcii/releases/download/untagged-60247a556a6c282a62f3/zoom_out.gif" width="100%" />
+</div>
 
 ### Hi, I'm Marcel 👋
 
