@@ -14,7 +14,7 @@ My team developed a custom 3D Computer Vision pipeline to detect ink in carboniz
 * **The Problem:** Segmenting characters in 3D volumetric X-ray scans where the human eye sees nothing.
 * **The Solution:** Designed **MiniUNETR** (a lightweight 3D Transformer/CNN hybrid) and built an iterative "ignore-mask" data engine to handle uncertainty.
 * **The Result:** Successfully extracted the first readable title from Scroll 5.
-* **[View the Winning Code & Case Study](https://github.com/mvrcii/vesuvius_first_title_prize)** 👈 *(Pin this repo!)*
+* **[View the Winning Code & Case Study](https://github.com/mvrcii/vesuvius_first_title_prize)**
 
 <table width="100%" style="border: none; background-color: transparent;">
   <tr style="border: none;">
